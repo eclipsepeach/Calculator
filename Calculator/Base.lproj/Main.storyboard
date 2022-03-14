@@ -55,7 +55,7 @@
                                                             <constraint firstAttribute="width" secondItem="KgG-rX-hys" secondAttribute="height" id="2gM-z2-mU4"/>
                                                         </constraints>
                                                         <state key="normal" title="Button"/>
-                                                        <buttonConfiguration key="configuration" style="plain" title="/">
+                                                        <buttonConfiguration key="configuration" style="plain" title="÷">
                                                             <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="30"/>
                                                             <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         </buttonConfiguration>
@@ -409,7 +409,7 @@
             <size key="intrinsicContentSize" width="42.5" height="50"/>
         </designable>
         <designable name="KgG-rX-hys">
-            <size key="intrinsicContentSize" width="33.5" height="50"/>
+            <size key="intrinsicContentSize" width="43" height="50"/>
         </designable>
         <designable name="Msh-et-NX0">
             <size key="intrinsicContentSize" width="43" height="50"/>
